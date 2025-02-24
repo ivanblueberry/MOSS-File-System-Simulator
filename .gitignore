@@ -3,3 +3,6 @@
 
 # Ignora archivos compilados de java
 *.class
+
+# Ignora los archivos .dat
+*.dat
